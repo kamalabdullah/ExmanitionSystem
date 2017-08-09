@@ -1,0 +1,16 @@
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\bin\Debug\Exam.Domain.Core.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\bin\Debug\Exam.Domain.Core.pdb
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\obj\Debug\Exam.Domain.Core.csprojResolveAssemblyReference.cache
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\obj\Debug\Exam.Domain.Core.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\obj\Debug\Exam.Domain.Core.pdb
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\bin\Debug\Exam.Domain.Core.dll.config
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\bin\Debug\EntityFramework.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\bin\Debug\EntityFramework.xml
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Domain.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\interview\ExaminationSystem\ExaminationSystem\Exam.Domain.Core\obj\Debug\Exam.Domain.Core.csprojResolveAssemblyReference.cache
+E:\interview\ExaminationSystem\ExaminationSystem\Exam.Domain.Core\obj\Debug\Exam.Domain.Core.dll

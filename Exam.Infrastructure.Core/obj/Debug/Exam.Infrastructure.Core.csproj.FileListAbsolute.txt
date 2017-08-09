@@ -1,0 +1,23 @@
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\Exam.Infrastructure.Core.dll.config
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\Exam.Infrastructure.Core.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\Exam.Infrastructure.Core.pdb
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\EntityFramework.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\Exam.Domain.Core.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\Exam.Domain.Core.pdb
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\EntityFramework.xml
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\obj\Debug\Exam.Infrastructure.Core.csprojResolveAssemblyReference.cache
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\obj\Debug\Exam.Infrastructure.Core.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\obj\Debug\Exam.Infrastructure.Core.pdb
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\obj\Debug\Exam.Infrastructure.Core.Migrations.Initial.resources
+C:\Users\kamal.abdullah\documents\visual studio 2013\Projects\ExaminationSystem\Exam.Infrastructure.Core\obj\Debug\Exam.Infrastructure.Core.csproj.GenerateResource.Cache
+E:\interview\ExaminationSystem\ExaminationSystem\Exam.Infrastructure.Core\obj\Debug\Exam.Infrastructure.Core.csprojResolveAssemblyReference.cache
+E:\interview\ExaminationSystem\ExaminationSystem\Exam.Infrastructure.Core\obj\Debug\Exam.Infrastructure.Core.Migrations.Initial.resources
+E:\interview\ExaminationSystem\ExaminationSystem\Exam.Infrastructure.Core\obj\Debug\Exam.Infrastructure.Core.csproj.GenerateResource.Cache
+E:\interview\ExaminationSystem\ExaminationSystem\Exam.Infrastructure.Core\obj\Debug\Exam.Infrastructure.Core.dll
+E:\interview\ExaminationSystem\ExaminationSystem\Exam.Infrastructure.Core\obj\Debug\Exam.Infrastructure.Core.pdb
