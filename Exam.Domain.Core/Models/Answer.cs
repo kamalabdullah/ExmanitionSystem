@@ -9,7 +9,7 @@
 
 namespace Exam.Domain.Core.Models
 {
-
+    //test pull request
     public partial class Answer
     {
         public int Id { get; set; }
